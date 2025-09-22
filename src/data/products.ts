@@ -7,7 +7,7 @@ import counterImage from '@/assets/counter-product.jpg';
 import contactorImage from '@/assets/contactor-product.jpg';
 import transformerImage from '@/assets/transformer-product.jpg';
 import gasketImage from '@/assets/gasket-product.jpg';
-import sleeveImage from '@/assets/sleeve-product.jpg';
+import sleeveImage from '@/assets/Sleeve-product.jpg';
 import plugImage from '@/assets/plug-product.jpg';
 import socketImage from '@/assets/socket-product.jpg';
 import pushButtonImage from '@/assets/pushbutton.jpg';
